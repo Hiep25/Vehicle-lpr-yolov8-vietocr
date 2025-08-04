@@ -1,7 +1,11 @@
 ```markdown
- 🚘 Hệ Thống Nhận Diện Biển Số Xe Máy bằng YOLOv8 và VietOCR
+ 🚘 Hệ Thống Nhận Diện Biển Số Xe bằng YOLOv8 và VietOCR
 
-Dự án xây dựng một hệ thống nhận diện biển số xe máy tự động bằng cách kết hợp mô hình phát hiện đối tượng **YOLOv8** với mô hình nhận dạng ký tự tiếng Việt **VietOCR**. Hệ thống hướng đến ứng dụng thực tế trong quản lý bãi đỗ xe, giúp giảm thiểu thao tác thủ công, tăng độ chính xác và hiệu quả vận hành.
+Dự án xây dựng một hệ thống nhận diện biển số xe máy, xe ô tô tự động bằng cách kết hợp mô hình phát hiện đối tượng **YOLOv8** với mô hình nhận dạng ký tự tiếng Việt **VietOCR**. Hệ thống hướng đến ứng dụng thực tế trong quản lý bãi đỗ xe, giúp giảm thiểu thao tác thủ công, tăng độ chính xác và hiệu quả vận hành.
+
+<img width="831" height="381" alt="image" src="https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f" />
+<img width="888" height="562" alt="image" src="https://github.com/user-attachments/assets/539f29c1-3b53-4e8b-b416-28ca1b692cc2" />
+
 
 ---
 
