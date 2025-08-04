@@ -1,10 +1,12 @@
-```markdown
- 🚘 Hệ Thống Nhận Diện Biển Số Xe bằng YOLOv8 và VietOCR
+🚘 Hệ Thống Nhận Diện Biển Số Xe bằng YOLOv8 và VietOCR
 
 Dự án xây dựng một hệ thống nhận diện biển số xe máy, xe ô tô tự động bằng cách kết hợp mô hình phát hiện đối tượng **YOLOv8** với mô hình nhận dạng ký tự tiếng Việt **VietOCR**. Hệ thống hướng đến ứng dụng thực tế trong quản lý bãi đỗ xe, giúp giảm thiểu thao tác thủ công, tăng độ chính xác và hiệu quả vận hành.
 
 <img width="831" height="381" alt="image" src="https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f" />
-<img width="888" height="562" alt="image" src="https://github.com/user-attachments/assets/539f29c1-3b53-4e8b-b416-28ca1b692cc2" />
+<img width="482" height="504" alt="image" src="https://github.com/user-attachments/assets/12a32549-5c8a-4591-94d6-a22ebc46d0cc" />
+<img width="482" height="504" alt="image" src="https://github.com/user-attachments/assets/ff69864f-e10d-4a76-a335-524b9af02c1d" />
+
+
 
 
 ---
@@ -86,23 +88,19 @@ Dự án xây dựng một hệ thống nhận diện biển số xe máy, xe ô
 
  📈 Minh Họa Kết Quả
 
-```markdown
  1. Ảnh gốc đầu vào
-![Input](https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f)
+![Input]<img width="831" height="381" alt="image" src="https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f" />
 
  2. Phát hiện biển số bằng YOLOv8
-![YOLO Detection](assets/yolo_detection.jpg)
+![YOLO Detection]<img width="620" height="324" alt="image" src="https://github.com/user-attachments/assets/2aaad8f8-de44-4b2c-a6f9-f361893de448" />
 
  3. Vùng biển số đã crop
-![Cropped Plate](assets/cropped_plate.jpg)
+![Cropped Plate]<img width="330" height="115" alt="image" src="https://github.com/user-attachments/assets/e2830b66-b6bb-4e5b-be73-7a4568c8c442" />
 
  4. Kết quả nhận dạng bằng VietOCR
-![OCR Result](assets/ocr_result.jpg)
+![OCR Result]<img width="633" height="308" alt="image" src="https://github.com/user-attachments/assets/83b27a94-0366-42f5-a17f-880ce50f72fd" />
+
 ```
-
-> 🔁 *Bạn có thể thay bằng ảnh thực tế trong thư mục `results/`.*
-
----
 
  🧠 Ưu Điểm
 
@@ -145,7 +143,6 @@ python vietocr/recognize.py --image ./results/cropped_plate.jpg
 
 > Có thể thay bằng notebook Colab nếu bạn không chạy local.
 
----
 
 ## 📄 Giấy Phép
 
