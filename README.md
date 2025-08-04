@@ -130,7 +130,6 @@ Dự án xây dựng một hệ thống nhận diện biển số xe máy, xe ô
 
  ▶️ Hướng Dẫn Sử Dụng (nếu tự chạy)
 
-```bash
  1. Cài thư viện
 pip install -r requirements.txt
 
@@ -139,13 +138,6 @@ python yolov8/detect.py --source ./data/test/sample.jpg
 
  3. Nhận dạng ký tự từ ảnh đã crop
 python vietocr/recognize.py --image ./results/cropped_plate.jpg
-```
 
-> Có thể thay bằng notebook Colab nếu bạn không chạy local.
+ Có thể thay bằng notebook Colab nếu bạn không chạy local.
 
-
-## 📄 Giấy Phép
-
-Dự án phục vụ mục đích học thuật. Không sử dụng vào mục đích thương mại khi chưa được sự cho phép.
-
-```
