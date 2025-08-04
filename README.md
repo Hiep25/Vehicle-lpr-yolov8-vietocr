@@ -141,3 +141,8 @@ python vietocr/recognize.py --image ./results/cropped_plate.jpg
 
  Có thể thay bằng notebook Colab nếu bạn không chạy local.
 
+ 🤝 Liên hệ
+
+Bạn có thể liên hệ với mình nếu có thắc mắc hoặc muốn góp ý cho dự án:
+
+**Email:** [hiepbt17@gmail.com]
