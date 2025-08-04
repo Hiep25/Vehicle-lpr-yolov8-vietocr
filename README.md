@@ -88,7 +88,7 @@ Dự án xây dựng một hệ thống nhận diện biển số xe máy, xe ô
 
 ```markdown
  1. Ảnh gốc đầu vào
-![Input](<img width="831" height="381" alt="image" src="https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f" />)
+![Input](https://github.com/user-attachments/assets/5cb35457-2340-4b2c-8074-79cf71a6079f)
 
  2. Phát hiện biển số bằng YOLOv8
 ![YOLO Detection](assets/yolo_detection.jpg)
